@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1629048601 source:c:\users\administrator\documents\github\rpgnewgame\rpgnewgame\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	"header.h"
+
+1629048572 c:\users\administrator\documents\github\rpgnewgame\rpgnewgame\header.h
+	<time.h>
+	<stdlib.h>
+
+1629048895 source:c:\users\administrator\documents\github\rpgnewgame\rpgnewgame\structs.c
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"header.h"
+
